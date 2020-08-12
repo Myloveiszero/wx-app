@@ -1,0 +1,7 @@
+.container{
+  /* px有兼容问题， 所有手机都是750rpx */
+  padding: 0 15rpx;
+}
+.flex-continaer {
+  display: flex;
+}
